@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConverter.Lib", "FileConverter.Lib\FileConverter.Lib.csproj", "{10642A4F-66B5-4119-8871-F79E9A66EF88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University.DataModel", "University.DataModel\University.DataModel.csproj", "{63C23518-277F-4E43-A7EE-4BC6C6B176CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConverter.Test", "FileConverter.Test\FileConverter.Test.csproj", "{1B9B0C47-B26C-4001-A954-003F3485C577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10642A4F-66B5-4119-8871-F79E9A66EF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10642A4F-66B5-4119-8871-F79E9A66EF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10642A4F-66B5-4119-8871-F79E9A66EF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10642A4F-66B5-4119-8871-F79E9A66EF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C23518-277F-4E43-A7EE-4BC6C6B176CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C23518-277F-4E43-A7EE-4BC6C6B176CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C23518-277F-4E43-A7EE-4BC6C6B176CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C23518-277F-4E43-A7EE-4BC6C6B176CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9B0C47-B26C-4001-A954-003F3485C577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9B0C47-B26C-4001-A954-003F3485C577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9B0C47-B26C-4001-A954-003F3485C577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9B0C47-B26C-4001-A954-003F3485C577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
